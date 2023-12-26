@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Dec 2023 14:04:29 at https://ketnoigiasu.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ketnoigiasu.vn/ -O1 "D:\clone_giasu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:07:04	Warning: 	Moved Permanently for ketnoigiasu.vn/robots.txt
+14:07:04	Warning: 	Redirected link is identical because of 'URL Hack' option: ketnoigiasu.vn/robots.txt and https://ketnoigiasu.vn/robots.txt
+14:07:04	Warning: 	Warning moved treated for ketnoigiasu.vn/robots.txt (real one is https://ketnoigiasu.vn/robots.txt)
+14:07:04	Warning: 	Moved Permanently for ketnoigiasu.vn/?is_new=student
+14:07:04	Warning: 	Redirected link is identical because of 'URL Hack' option: ketnoigiasu.vn/?is_new=student and https://ketnoigiasu.vn/?is_new=student
+14:07:04	Warning: 	File has moved from ketnoigiasu.vn/?is_new=student to https://ketnoigiasu.vn/?is_new=student
+14:07:04	Warning: 	Moved Permanently for ketnoigiasu.vn/?is_new=teacher
+14:07:04	Warning: 	Redirected link is identical because of 'URL Hack' option: ketnoigiasu.vn/?is_new=teacher and https://ketnoigiasu.vn/?is_new=teacher
+14:07:04	Warning: 	File has moved from ketnoigiasu.vn/?is_new=teacher to https://ketnoigiasu.vn/?is_new=teacher
+14:07:04	Warning: 	Moved Permanently for ketnoigiasu.vn/?is_new=academy
+14:07:04	Warning: 	Redirected link is identical because of 'URL Hack' option: ketnoigiasu.vn/?is_new=academy and https://ketnoigiasu.vn/?is_new=academy
+14:07:04	Warning: 	File has moved from ketnoigiasu.vn/?is_new=academy to https://ketnoigiasu.vn/?is_new=academy
+14:35:24	Error: 	"Not Found" (404) at link https://ketnoigiasu.vn/storage/avatar/nms_6125e564a54b4.1629873508.jpeg (from https://ketnoigiasu.vn/doi-ngu-gia-su?page=179)
+14:35:25	Error: 	"Not Found" (404) at link https://ketnoigiasu.vn/storage/avatar/nms_6116279d16726.13-08-2021.jpeg (from https://ketnoigiasu.vn/doi-ngu-gia-su?page=182)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 32 minutes 5 seconds : 7076 links scanned, 7069 files written (814830559 bytes overall) [822227227 bytes received at 148819 bytes/sec], 79027 bytes transferred using HTTP compression in 2 files, ratio 33%, 126.8 requests per connection
+(2 errors, 12 warnings, 0 messages)
